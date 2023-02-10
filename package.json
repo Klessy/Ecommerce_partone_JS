@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce2",
+  "version": "1.0.0",
+  "description": "ecomm",
+  "main": "script.js",
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gui-learn"
+  },
+  "author": "Precious",
+  "license": "ISC",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.0",
+    "lite-server": "^2.6.1"
+  }
+}
